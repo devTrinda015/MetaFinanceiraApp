@@ -14,7 +14,7 @@ Um app Android simples e intuitivo para ajudar você a definir, acompanhar e con
 🌐 Suporte a múltiplos idiomas (Português, Inglês, Espanhol)
 ▶️ Como Rodar
 # Clone o projeto
-$ git clone https://github.com/jvvinicius9/MetaFinanceiraApp.git
+$ git clone https://github.com/devTrinda015/MetaFinanceiraApp.git
 
 # Abra no Android Studio e execute no emulador ou dispositivo físico
 🛠️ Tecnologias Utilizadas
